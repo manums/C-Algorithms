@@ -1,0 +1,6 @@
+D:\Manu Dump\A Dump\Projects\Algoithms\Algoithms\bin\Debug\Algoithms.exe.config
+D:\Manu Dump\A Dump\Projects\Algoithms\Algoithms\bin\Debug\Algoithms.exe
+D:\Manu Dump\A Dump\Projects\Algoithms\Algoithms\bin\Debug\Algoithms.pdb
+D:\Manu Dump\A Dump\Projects\Algoithms\Algoithms\obj\Debug\Algoithms.csprojResolveAssemblyReference.cache
+D:\Manu Dump\A Dump\Projects\Algoithms\Algoithms\obj\Debug\Algoithms.exe
+D:\Manu Dump\A Dump\Projects\Algoithms\Algoithms\obj\Debug\Algoithms.pdb
