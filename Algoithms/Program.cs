@@ -1,16 +1,9 @@
-﻿/*
- * Created by SharpDevelop.
- * User: manu
- * Date: 9/27/2015
- * Time: 10:31 AM
- * 
- * To change this template use Tools | Options | Coding | Edit Standard Headers.
- */
+﻿using Algorithms.Strings;
 using System;
 using System.Diagnostics;
 using System.Timers;
 
-namespace Algoithms
+namespace Algorithms
 {
 	class Program
 	{
